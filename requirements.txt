@@ -1,0 +1,9 @@
+# CUDA 13.0 builds of PyTorch
+--extra-index-url https://download.pytorch.org/whl/cu130
+
+torch==2.14.1
+tiktoken==0.14.0
+transformers==5.18.0
+numpy==2.5.2
+PyYAML==6.0.3
+ipykernel==7.4.0
